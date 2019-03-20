@@ -1,0 +1,38 @@
+title: >
+    Mu-Share Blog
+email: >
+    mustofaikhwanuljamil@gmail.com
+description: >
+    Dunia Pena Tanpa Selembar Kertas
+
+baseurl: "/"
+url: http://keralahost.in/mushare
+google_adsense: 
+
+markdown: kramdown
+
+name: >
+    Mu-Share Blog
+
+date: 2019-03-20 12:43:46 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/mushare/
+google_analytics: 
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: >
+    
+author_image: >
+    
+
+author: >
+    Mu-S
